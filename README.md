@@ -31,5 +31,5 @@ $ cd TinDog
 ```
 
 ## Screenshot
-![Alt text](/images/TinDog-screenShot.png?raw=true "NewsletterSignup")
+![Alt text](/images/TinDog-screenShot.png?raw=true "TinDog")
 
